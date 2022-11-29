@@ -6,7 +6,7 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="37%" src="https://s1.zerochan.net/IRyS.600.3389495.jpg"/>
+<img align="right" width="37%"  src="https://s1.zerochan.net/IRyS.600.3389495.jpg"/>
 
   <a href="https://github.com/BangDonKiller"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=BangDonKiller&count_private=true&show_icons=true&theme=jolly&border_radius=20"></a>
   <a href="https://github.com/BangDonKiller"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangDonKiller&layout=compact&langs_count=4&border_radius=20&theme=jolly"></a>
